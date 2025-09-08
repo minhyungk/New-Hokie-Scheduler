@@ -5,3 +5,5 @@ We will rule the world using this new scheduler
 Stack: node.js, react, AWS 
 
 Testing merging...
+
+Editing on dev branch.
